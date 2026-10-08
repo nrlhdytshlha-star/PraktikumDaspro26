@@ -21,7 +21,7 @@ public class StudiKasus1_26 {
         }
         totalBayar = totalHarga - diskon;
 
-        System.out.println("Toatal harga : Rp " + totalHarga);
+        System.out.println("Total harga : Rp " + totalHarga);
         System.out.println("Diskon : Rp " + diskon);
         System.out.println("Total bayar : Rp " + totalBayar);
 
